@@ -4,7 +4,7 @@
   
 
 ### <div align="center">I'm Anna, i am developer 👨‍💻 working remotely since 2021 🚀😀</div>  
-  
+  <br>
 
 - 🌱 I’m currently learning C# , Java and JavaScript  
   
